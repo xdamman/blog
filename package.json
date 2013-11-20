@@ -1,0 +1,22 @@
+{
+  "name": "xdamman-website-content",
+  "version": "0.0.0",
+  "description": "Content for my website xdamman.com ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xdamman/website-content.git"
+  },
+  "keywords": [
+    "xdamman.com",
+    "markdown",
+    "website",
+    "personal"
+  ],
+  "author": "Xavier Damman (@xdamman)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xdamman/website-content/issues"
+  },
+  "homepage": "https://github.com/xdamman/website-content"
+}
