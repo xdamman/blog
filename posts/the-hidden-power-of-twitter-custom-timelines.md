@@ -5,7 +5,7 @@ Twitter [announced recently a new feature to create custom timelines](https://bl
 
 But this post is not about Storify. It's about the hidden power of the Twitter Custom Timelines. 
 
-#### Twitter Customer Timelines as tags
+#### Twitter Customer Timelines for hashtags
 
 What if every time you would use a hashtag, it would automatically add your tweet to a collection with the name of the hashtag? If it's the first time that you use that hashtag, it will first create a new custom timeline for you. 
 
