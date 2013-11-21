@@ -1,6 +1,6 @@
-<div class="pull_left">
-<img src="https://pbs.twimg.com/profile_images/3075727251/5c825534ad62223ae6a539f6a5076d3c_normal.jpeg" alt="Xavier Damman avatar" /> 
-</div>
+name: Xavier Damman
+twitter: @xdamman
+avatar: https://pbs.twimg.com/profile_images/3075727251/5c825534ad62223ae6a539f6a5076d3c_normal.jpeg
 
-#### About the author
-Xavier Damman was the cofounder/ceo of Storify, acquired by Livefyre. He is now the general manager of Storify at Livefyre. I write about startups, politics and random things.
+I'm Xavier Damman and I'm the cofounder and former CEO of [Storify](http://storify.com) (acquired by Livefyre in 2013). I'm now the general manager of Storify at Livefyre. I write about startups, politics and random things. I like [hacking](http://github.com/xdamman) and [talking](http://storify.com/xdamman/interviews).
+You can follow me on Twitter [@xdamman](http://twitter.com/intent/follow?screen_name=xdamman)
