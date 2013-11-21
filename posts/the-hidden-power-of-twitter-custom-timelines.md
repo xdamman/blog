@@ -14,7 +14,8 @@ This has two direct benefits:
 - You can easily look back to all your tweets about a given conference or on a given topic (e.g. all my tweets with #sxsw or with #startup or with #fr - for saying that the tweet is in French)
 - Other users can quickly see on your profile what you are mostly tweeting about recently
 
-But most importantly, it opens the door to **allow other users to only follow a subset of your tweets**. E.g. you could follow only my tweets about startup ([follow @xdamman#startup](https://twitter.com/xdamman/timelines/403231422728503296)) or only my tweets in French ([@xdamman#fr](https://twitter.com/xdamman/timelines/403232035851890689)). Reversely, you could follow all my tweets but unfollow my tweets about #sxsw.
+But most importantly, it opens the door to **allow other users to only follow a subset of your tweets**. E.g. you could follow only my tweets about startup ([follow @xdamman#startup](https://twitter.com/xdamman/timelines/403231422728503296)) or only my tweets in French ([@xdamman#fr](https://twitter.com/xdamman/timelines/403232035851890689)). Reversely, you could follow all my tweets but unfollow my tweets about #sxsw. 
 
 ![Modified Tweetdeck screenshot: Follow a Custom Timeline](http://f.cl.ly/items/1h1J0f1H1d0x1i2z3d1O/Screen%20Shot%202013-11-20%20at%2011.03.42%20PM.png)
 
+Custom Timelines could be the foundation for a new follow mechanism on Twitter that I believe would greatly improve the signal to noise ratio. Something that many Twitter users have been craving for a long time. Time will tell but I can't wait to see what Twitter will do with this. 
