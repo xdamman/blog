@@ -1,10 +1,7 @@
 # The hidden power of Twitter Custom Timelines
 Twitter [announced recently a new feature to create custom timelines](https://blog.twitter.com/2013/custom-timelines-in-tweetdeck). This feature allows you to create custom collections of tweets. Those collections appear on your profile (only in Tweetdeck for now) and have [a unique public URL](https://twitter.com/twittermedia/timelines/400355752109293568) that you can share. You can also [embed them on any site](http://www.pcmag.com/article2/0,2817,2427298,00.asp).
 
-[Some people thought](http://www.theguardian.com/technology/2013/nov/13/twitter-takes-on-storify-with-custom-timelines) that this would be a "Storify killer", but most realized that it [won't kill Storify](http://www.poynter.org/latest-news/229422/twitters-custom-timelines-wont-kill-storify-but-could-become-robust-filters/) as the capabilities are very different. By definition, Twitter Custom Timelines can only contain tweets. That means that you can't add any other media unless they have been tweeted. And because Facebook doesn't play nicely with Twitter, Instagram photos and videos won't appear. 
-Another big difference is that you can't reorder tweets in a custom timeline and you can't add your own text in between to give some context and tell a story. So while I'm sure this new feature will certainly fill the need of many, I'm not worried for [Storify](http://storify.com). If nothing else, it will drive more people to the concept of curation and the users who will be looking for more advanced features will turn to Storify.
-
-Despite those limitations in the context of publishing and storytelling, I actually think that the Twitter Custom Timelines have a hidden power to change the way we use Twitter. Nothing less.
+Despite the current limitations, I actually think that the Twitter Custom Timelines have the potential to change the way we use Twitter. Nothing less.
 
 ## Twitter Customer Timelines for hashtags
 
