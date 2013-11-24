@@ -1,4 +1,6 @@
-# Old way of thinking + new technology = bad recipe.
+# Echec de la voiture électrique en Belgique ou échec d'une façon de pensée?
+
+Old way of thinking + new technology = bad recipe.
 
 <video src="http://podvideo.prd.rtbf.be/redirect/rtbf_vod/folder-11407/copy-32/5785908.mp4" controls></video>
 

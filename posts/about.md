@@ -1,5 +1,5 @@
 # About
-
+Who am I? Why this website? What will you find here?
 ### Who am I?
 Hi, I'm Xavier Damman. I'm an entrepreneur and an engineer in computer science. I was born and raised in Belgium, but I now live in San Francisco since 2009. I was the cofounder and CEO of [Storify](http://storify.com) that has been [acquired by Livefyre in September 2013](http://storify.com/storify/storify-acquired-by-livefyre). I'm currently working at Livefyre as the General Manager of Storify. 
 
