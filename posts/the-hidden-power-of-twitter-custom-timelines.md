@@ -6,13 +6,13 @@ Twitter [announced recently a new feature to create custom timelines](https://bl
 
 ## Twitter Customer Timelines meet hashtags
 
-What if every time you would use a hashtag, it would automatically add your tweet to a collection with the name of the hashtag? (If it's the first time that you use that hashtag, it will first create a new custom timeline for you.)
+What if every time you used a hashtag, it would automatically add your tweet to a collection with the name of the hashtag? (If it's the first time that you use that hashtag, it will first create a new custom timeline for you.)
 
 This has two direct benefits:
 - You can easily look back to all your tweets about a given conference or on a given topic (e.g. all my tweets with #sxsw or with #startup)
 - Other users can quickly see on your profile what you are mostly tweeting about recently
 
-But most importantly, it opens the door to **allow other users to only follow a subset of your tweets**. E.g. you could follow only my tweets about startup ([follow @xdamman#startup](https://twitter.com/xdamman/timelines/403231422728503296)) or only my tweets in French ([@xdamman#fr](https://twitter.com/xdamman/timelines/403232035851890689)). Reversely, you could follow all my tweets but unfollow my tweets about #sxsw. 
+But most importantly, it opens the door to **allow other users to only follow a subset of your tweets**. E.g. you could follow only my tweets about startup ([follow @xdamman#startup](https://twitter.com/xdamman/timelines/403231422728503296)) or only my tweets in French ([@xdamman#fr](https://twitter.com/xdamman/timelines/403232035851890689)). Conversely, you could follow all my tweets but unfollow my tweets about #sxsw. 
 
 ![Modified Tweetdeck screenshot: Follow a custom feed](http://f.cl.ly/items/023B3a2n1J1S2e0A3f0J/Screen%20Shot%202013-11-24%20at%201.25.29%20PM.png)
 
