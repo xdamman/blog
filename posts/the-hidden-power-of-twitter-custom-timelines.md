@@ -16,13 +16,13 @@ But most importantly, it opens the door to **allow other users to only follow a 
 
 ![Modified Tweetdeck screenshot: Follow a custom feed](http://f.cl.ly/items/023B3a2n1J1S2e0A3f0J/Screen%20Shot%202013-11-24%20at%201.25.29%20PM.png)
 
-### Perfect for alerts, promotions, ...
+## Perfect for alerts, promotions, ...
 [Twitter already offers an alert mechanism](https://blog.twitter.com/2013/twitter-alerts-critical-information-when-you-need-it-most), but it's only available for a limited number of accounts. With this new follow paradigm, Twitter could scale that feature to everyone. Anyone should be able to send an #alert and it should be up to your followers to follow or unfollow them. E.g. I don't want to follow all the tweets from [@nytimes](http://twitter.com/nytimes) but I'd be happy to follow @nytimes#alerts. I should also be able to configure it in such a way that those alerts get pushed to me.
 
 Promotions is another great use case for this. I don't want to follow [@amazon](http://twitter.com/amazon) but I wouldn't mind following @amazon#blackfriday. 
 
-### A better interest graph
+## A better interest graph
 By allowing to follow a subset of someone's tweets, you effectively **reduce the cost of following**. As a result, I would expect people to follow more feeds and therefore build a deeper interest graph (which is good to improve ad targeting.)
 
-### Conclusion
+## Conclusion
 Despite the current limitations, the new Twitter Custom Timelines have the potential to change the way we use Twitter. Custom Timelines could be the foundation for a new follow mechanism on Twitter that I believe would greatly improve the signal to noise ratio. Something that many Twitter users have been craving for a long time. Time will tell but I can't wait to see what Twitter will do with this. 
