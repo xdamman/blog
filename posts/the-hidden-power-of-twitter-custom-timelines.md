@@ -14,7 +14,7 @@ This has two direct benefits:
 
 But most importantly, it opens the door to **allow other users to only follow a subset of your tweets**. E.g. you could follow only my tweets about startup ([follow @xdamman#startup](https://twitter.com/xdamman/timelines/403231422728503296)) or only my tweets in French ([@xdamman#fr](https://twitter.com/xdamman/timelines/403232035851890689)). Reversely, you could follow all my tweets but unfollow my tweets about #sxsw. 
 
-![Modified Tweetdeck screenshot: Follow a custom feed](http://f.cl.ly/items/023B3a2n1J1S2e0A3f0J/Screen%20Shot%202013-11-24%20at%201.25.29%20PM.png)
+![Modified Tweetdeck screenshot: Follow a custom feed](/public/img/twitter-custom-timelines-hashtag.png)
 
 ## Perfect for alerts, promotions, ...
 [Twitter already offers an alert mechanism](https://blog.twitter.com/2013/twitter-alerts-critical-information-when-you-need-it-most), but it's only available for a limited number of accounts. With this new follow paradigm, Twitter could scale that feature to everyone. Anyone should be able to send an #alert and it should be up to your followers to follow or unfollow them. E.g. I don't want to follow all the tweets from [@nytimes](http://twitter.com/nytimes) but I'd be happy to follow @nytimes#alerts. I should also be able to configure it in such a way that those alerts get pushed to me.
