@@ -1,3 +1,5 @@
+date: November 14, 2013
+
 # Echec de la voiture électrique en Belgique ou échec d'une façon de pensée?
 
 Old way of thinking + new technology = bad recipe.
