@@ -14,7 +14,7 @@ This has two direct benefits:
 - You can easily look back to all your tweets about a given conference or on a given topic (e.g. all my tweets with #sxsw or with #startup)
 - Other users can quickly see on your profile what you are mostly tweeting about recently
 
-But most importantly, it opens the door to **allow other users to only follow a subset of your tweets**. E.g. you could follow only my tweets about startup ([follow @xdamman#startup](https://twitter.com/xdamman/timelines/403231422728503296)) or only my tweets in French ([@xdamman#fr](https://twitter.com/xdamman/timelines/403232035851890689)). Conversely, you could follow all my tweets but unfollow my tweets about #sxsw. 
+But most importantly, it opens the door to **allow other users to only follow a subset of your tweets**. E.g. you could follow only my tweets about startup ([@xdamman#startup](https://twitter.com/xdamman/timelines/403231422728503296)) or only my tweets in French ([@xdamman#fr](https://twitter.com/xdamman/timelines/403232035851890689)). Conversely, you could follow all my tweets but unfollow my tweets about #sxsw. 
 
 ![Modified Tweetdeck screenshot: Follow a custom feed](/public/img/twitter-custom-timelines-hashtag.png)
 
