@@ -2,7 +2,7 @@ date: December 8, 2013
 tags: #startups #advice
 draft: true
 
-# Planza
+# Planza - startup advice
 
 I had coffee with a Belgian entrepreneur visiting San Francisco. Here are some of the advice I shared with him. 
 
