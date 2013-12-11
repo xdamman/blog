@@ -1,6 +1,5 @@
 date: December 8, 2013
 tags: #startups #advice
-draft: true
 
 # Planza - startup advice
 
