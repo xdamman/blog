@@ -1,6 +1,6 @@
-@media (min-height: 700px) and (min-width: 1100px) {
+@media (min-height: 600px) and (min-width: 1100px) {
   body.page {
-    background: url('/public/img/xavierdamman-homepage.jpg') no-repeat;
+    background: url('../img/xavierdamman-homepage.jpg') no-repeat;
     background-size: contain;
     background-position: 0 100%;
     background-color: #DCDEEA;
