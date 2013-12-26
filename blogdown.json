@@ -1,3 +1,4 @@
 {
-  "theme": "xdamman"
+  "theme": "xdamman",
+  "host": "localhost.xdamman.com"
 }
