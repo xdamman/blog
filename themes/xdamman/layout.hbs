@@ -2,20 +2,19 @@
   <head>
     <title>{{#if title}}{{title}} - {{/if}}Xavier Damman (@xdamman)</title>
 
-    <link rel="icon" type="image/png" href="/img/favicon.png" />
+    <link rel="icon" type="image/png" href="img/favicon.png" />
 
-    <!-- build:remove -->
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/main.css" />
-    <link rel="stylesheet" href="css/main.large.css" />
-    <link rel="stylesheet" href="css/main.small.css" />
-    <link rel="stylesheet" href="/core/css/prettify.css" />
-    <!-- /build -->
+    {{#if env.development}}
+      <link rel="stylesheet" href="css/bootstrap.css" />
+      <link rel="stylesheet" href="css/main.css" />
+      <link rel="stylesheet" href="css/main.large.css" />
+      <link rel="stylesheet" href="css/main.small.css" />
+      <link rel="stylesheet" href="css/prettify.css" />
+    {{/if}}
 
-    <style>
-      <!-- build:include ../../dist/css/compiled.min.css -->
-      <!-- /build -->
-    </style>
+    {{#if env.production}}
+      <link rel="stylesheet" href="css/compiled.min.css" />
+    {{/if}}
 
     <meta name="viewport" content="width=device-width,initial-scale=1" />
   </head>
@@ -29,6 +28,8 @@
         {{{body}}}
       </div>
 
+    </div>
+
     <div id="footer">
       {{#if posts}}
         {{>_footer_home}}
@@ -38,11 +39,15 @@
       {{/posts}}
     </div>
 
-    <!-- build:js /js/optimized.min.js -->
-    <script src="/core/lib/requirejs/require.js"></script>
-    <script src="/core/js/requirejs.conf.js"></script>
+    {{#if env.development}}
+    <script src="lib/requirejs/require.js"></script>
+    <script src="js/requirejs.conf.js"></script>
     <script src="js/main.js"></script>
-    <!-- /build -->
+    {{/if}}
+
+    {{#if env.production}}
+    <script src="js/compiled.min.js"></script>
+    {{/if}}
 
   </body>
 </html>
