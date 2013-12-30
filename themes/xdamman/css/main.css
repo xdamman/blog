@@ -26,6 +26,15 @@ body.home h4 {
 body.page h4 a {
 }
 
+body.home {
+  overflow:hidden;
+}
+
+body.home .posts {
+  max-height: 475px;
+  overflow-y: scroll;
+}
+
 .post-item .timeago {
   font-weight: normal;
   font-size: 11px;
