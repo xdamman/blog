@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/xdamman/website-content/issues"
   },
-  "homepage": "https://github.com/xdamman/website-content"
+  "homepage": "https://github.com/xdamman/website-content",
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
 }

@@ -1,5 +1,7 @@
 # I don't need a faster iPhone
 
+What made me switch from PC to Mac was not speed but productivity. I don't need a faster iPhone. I need an iPhone that gets the job done when I need it.
+
 My first Apple laptop was a 12 inch MacBook G4. I loved it. Despite being quite heavy for its size, the form factor was brilliant. It was exactly the size of a European A4 sheet of paper. I could carry it with me everywhere and it gave me the power of Linux with the ease of use of MacOSX. I would turn it on and it would quickly wake up from sleep and be ready to execute my commands. It was the most productive laptop I've ever had by that time.
 
 ![Apple MacBook G4 12 inch](http://cdn2.sbnation.com/products/large/5898/powerbook%20g4%2012%20inch.jpg)
