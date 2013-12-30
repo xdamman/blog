@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <title>{{#if title}}{{title}} - {{/if}}Xavier Damman (@xdamman)</title>
+
+    <link rel="icon" type="image/png" href="img/favicon.png" />
+
+    <!-- build:remove -->
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/main.large.css" />
+    <link rel="stylesheet" href="css/main.small.css" />
+    <link rel="stylesheet" href="css/prettify.css" />
+    <!-- /build -->
+
+    <style>
+      <!-- build:include ../dist/css/compiled.min.css -->
+      <!-- /build -->
+    </style>
+
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+  </head>
+
+  <body class="{{template}}">
+    <!-- Wrap all page content here -->
+    <div id="wrap">
+
+      <!-- Begin page content -->
+      <div class="container">
+        {{{body}}}
+      </div>
+
+    <div id="footer">
+      {{#if posts}}
+        {{>_footer_home}}
+      {{/if}}
+      {{^posts}}
+        {{>_footer}}
+      {{/posts}}
+    </div>
+
+    <!-- build:js js/optimized.min.js -->
+    <script src="js/require.js"></script>
+    <script src="js/requirejs.conf.js"></script>
+    <script src="js/main.js"></script>
+    <!-- /build -->
+
+  </body>
+</html>
+
