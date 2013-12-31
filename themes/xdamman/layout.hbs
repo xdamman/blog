@@ -12,9 +12,9 @@
       <link rel="stylesheet" href="css/prettify.css" />
     {{/if}}
 
-    {{#if env.production}}
+    {{^env.development}}
       <link rel="stylesheet" href="css/compiled.min.css" />
-    {{/if}}
+    {{/env.development}}
 
     <meta name="viewport" content="width=device-width,initial-scale=1" />
   </head>
@@ -45,9 +45,9 @@
     <script src="js/main.js"></script>
     {{/if}}
 
-    {{#if env.production}}
+    {{^env.development}}
     <script src="js/compiled.min.js"></script>
-    {{/if}}
+    {{/env.development}}
 
   </body>
 </html>
