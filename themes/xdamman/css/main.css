@@ -192,16 +192,20 @@ table th {
 
 
 /* coding blocks */
+.prettyprint {
+  padding: 2px;
+}
+
 .prettyprint.linenums {
   margin: 20px 0px;
   padding: 0px;
-  box-shadow: inset 30px 0 0 #fbfbfc, inset 31px 0 0 #ececf0;
+  box-shadow: inset 30px 0 0 #fbfbfc, inset 31px 0 0 #ececf0 !important;
 }
 
-pre ol li {
+.prettyprint ol li {
   font-size: 12px;
 }
 
-pre ol.linenums li {
+.prettyprint ol.linenums li {
   padding-left: 2px;
 }

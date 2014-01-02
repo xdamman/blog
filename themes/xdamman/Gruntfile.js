@@ -10,7 +10,8 @@ module.exports = function(grunt) {
         },
         options: {
             compress: true
-           , urls: ['http://localhost:3000','http://localhost:3000/xdamman/blog/','http://localhost:3000/xdamman/blog/about','http://localhost:3000/xdamman/blog/website-optimization-grunt-uncss','http://localhost:3000/xdamman/blog/apple-focus-productivity']
+          , ignore: [/\.prettyprint.*/,/\.linenums/, '.com','.lit','.pun','.opn','.clo','.fun','.str','.atv ','.kwd','.typ','.atn','.dec','.var ','.pln']
+          , urls: ['http://localhost:3000/xdamman/blog/','http://localhost:3000/xdamman/blog/about','http://localhost:3000/xdamman/blog/website-optimization-grunt-uncss','http://localhost:3000/xdamman/blog/apple-focus-productivity']
         }
       }
     },
