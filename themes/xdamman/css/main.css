@@ -174,7 +174,34 @@ p.lead {
   border-radius: 50%;
 }
 
+.poweredby {
+  font-size: 10px;
+  line-height: 18px;
+}
+
+/* tables */
 table p {
   margin: 0;
   padding: 0px;
+  font-size: 12px;
+}
+
+table th {
+  font-size: 12px;
+}
+
+
+/* coding blocks */
+.prettyprint.linenums {
+  margin: 20px 0px;
+  padding: 0px;
+  box-shadow: inset 30px 0 0 #fbfbfc, inset 31px 0 0 #ececf0;
+}
+
+pre ol li {
+  font-size: 12px;
+}
+
+pre ol.linenums li {
+  padding-left: 2px;
 }

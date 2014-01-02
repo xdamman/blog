@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.2",
-    "grunt-uncss": "~0.1.5",
+    "grunt-uncss": "~0.1.x",
     "grunt-contrib-requirejs": "~0.4.1",
     "grunt-processhtml": "~0.2.7",
     "grunt-asset-cachebuster": "~0.2.0",

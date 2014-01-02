@@ -5,15 +5,14 @@ module.exports = function(grunt) {
     // Remove unused CSS across multiple files, compressing the final output
     uncss: {
       dist: {
-        files: [
-          { src: '*.hbs', dest: 'css/compiled.min.css'}
-          ]
+        files: {
+          'css/compiled.min.css': ['layout.hbs']
         },
         options: {
-            compress: false
-          , ignore: ["img","p","h1","h2","h3","h4","ul","li",".about p",".post h2", "blockquote","body.page","body.page .lead","body.page #footer", ".post-item .timeago", ".twitter-tweet","table",".table-responsive",".table-hover","table p","thead","tr","td","tbody",".table","th",".table > tbody > tr > td",".table > thead > tr > th",".table > thead:first-child > tr:first-child > th", "body.home h4", "body.page .post-item p",".post img"]
-          //, stylesheets: ['css/bootstrap.css']
+            compress: true
+           , urls: ['http://localhost:3000','http://localhost:3000/xdamman/blog/','http://localhost:3000/xdamman/blog/about','http://localhost:3000/xdamman/blog/website-optimization-grunt-uncss','http://localhost:3000/xdamman/blog/apple-focus-productivity']
         }
+      }
     },
     requirejs: {
       compile: {
