@@ -29,6 +29,8 @@
     "bootstrap": "~3.0.2",
     "requirejs": "~2.1.9",
     "requirejs-domready": "~2.0.1",
-    "google-code-prettify": "~1.0.1"
+    "google-code-prettify": "~1.0.1",
+    "selection-sharer": "~0.0.5",
+    "jquery": "~2.0.3"
   }
 }

@@ -5,7 +5,7 @@ var scripts = {
   "development" : ["analytics","prettify", "domReady!","timeago!"]
 };
 
-require(scripts[ENV], function(analytics, prettify) {
+require(scripts[ENV], function(analytics, prettify, selectionSharer) {
 
   var anchors = document.getElementsByTagName("a");
   for(var i=0, len=anchors.length; i<len; i++) {
@@ -31,5 +31,22 @@ require(scripts[ENV], function(analytics, prettify) {
   });
   
   prettify.prettyPrint();
+
+  if( navigator.userAgent.match(/Android/i)
+   || navigator.userAgent.match(/webOS/i)
+   || navigator.userAgent.match(/iPhone/i)
+   || navigator.userAgent.match(/iPad/i)
+   || navigator.userAgent.match(/iPod/i)
+   || navigator.userAgent.match(/BlackBerry/i)
+   || navigator.userAgent.match(/Windows Phone/i)
+  ) { /* mobile user */ }
+  else {
+      /* desktop user */
+    require(['jquery'], function(jQuery) {
+      require(['selectionSharer'], function(selectionSharer) {
+        var ss = new selectionSharer('p');
+      });
+    });
+  }
 
 });

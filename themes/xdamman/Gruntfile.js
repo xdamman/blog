@@ -10,7 +10,7 @@ module.exports = function(grunt) {
         },
         options: {
             compress: true
-          , ignore: [/\.prettyprint.*/,/\.linenums/, '.com','.lit','.pun','.opn','.clo','.fun','.str','.atv ','.kwd','.typ','.atn','.dec','.var ','.pln']
+          , ignore: [/shareSelectionPopover/,/\.prettyprint.*/,/\.linenums/, '.com','.lit','.pun','.opn','.clo','.fun','.str','.atv ','.kwd','.typ','.atn','.dec','.var ','.pln']
           , urls: ['http://localhost:3000/xdamman/blog/','http://localhost:3000/xdamman/blog/about','http://localhost:3000/xdamman/blog/website-optimization-grunt-uncss','http://localhost:3000/xdamman/blog/apple-focus-productivity']
         }
       }
@@ -22,7 +22,7 @@ module.exports = function(grunt) {
           name: "js/main",
           baseUrl: "",
           mainConfigFile: "js/requirejs.conf.js",
-          include: ['timeago','analytics', 'domReady','prettify'],
+          include: ['timeago','analytics', 'domReady','prettify','selectionSharer'],
           out: "js/compiled.min.js",
           optimize: 'uglify2',
           preserveLicenseComments: false
