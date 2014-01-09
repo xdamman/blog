@@ -495,31 +495,6 @@ body.page .lead {
   margin-top: 20px;
 }
 
-body.home {
-  overflow: hidden;
-}
-
-body.home .posts {
-  max-height: 410px;
-  overflow: hidden;
-  position: relative;
-}
-
-body.home .posts_inner {
-  max-height: 410px;
-  overflow-y: scroll;
-  position: relative;
-}
-
-body.home .posts .fadeout {
-  background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,0.5) 100%);
-  width: 100%;
-  height: 30px;
-  position: absolute;
-  z-index: 50;
-  top: 380px;
-}
-
 body.home h4 {
   margin: 24px 0px 6px 0px;
 }
@@ -691,6 +666,31 @@ table th {
     background-color: #DCDEEA;
     background-attachment: fixed;
     padding-left: 300px;
+  }
+
+  body.home {
+    overflow: hidden;
+  }
+
+  body.home .posts {
+    max-height: 410px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  body.home .posts_inner {
+    max-height: 410px;
+    overflow-y: scroll;
+    position: relative;
+  }
+
+  body.home .posts .fadeout {
+    background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,0.5) 100%);
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    z-index: 50;
+    top: 380px;
   }
 
   body.page #footer {
