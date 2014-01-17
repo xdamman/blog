@@ -2,7 +2,7 @@
 
 I love Google Chrome. Such a fast and pleasant experience when browsing the web on my laptop. But on my iPhone, Safari is still my browser of choice. But that's about to change.
 
-![](http://cl.ly/image/2K2j1H0A3a1x/2014-01-16%2023.13.43.jpeg)
+![](/public/img/google-chrome-mobile.jpg)
 
 So far, there hasn't been much reason to switch from the default Mobile Safari browser. It works great and it's fast (mainly thanks to the Nitro Javascript compiler which is unfairly not available to third party developers[1]).
 
