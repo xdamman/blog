@@ -2,9 +2,9 @@ draft: true
 
 # Office hours Brussels January 2014
 
-![Office Hour](public/img/OfficeHour.png)
-
 I met a bunch of entrepreneurs during my [office hours in Brussels last week](http://ohours.org/officehours/73763), 11 exactly, non stop between 1pm till 6pm!
+
+![Office Hour](public/img/OfficeHour.png)
 
 It’s very energizing to see all those men and women who are passionate about what they do and who want to create something in this world. 
 

@@ -2,9 +2,9 @@ draft: true
 
 # Pastebin for photos
 
-![Photobin](public/img/photobin.png)
-
 A dozen of entrepreneurs already talked to me about their idea for solving the photo mess. Which means that there are at least 20,000 entrepreneurs out there trying all possible angles to attack this problem. Yet, no one has nailed it yet. Someone will, someday. 
+
+![Photobin](public/img/photobin.png)
 
 Here is my take on it. It's not going to solve the entire photo mess, but it addresses the particular issue of gathering the pictures from multiple people around an event that you care about (the perfect example of such event is a birthday party or a wedding). I don't have the time to build it so feel free to give life to this idea if you like it. It's all copyleft.
 

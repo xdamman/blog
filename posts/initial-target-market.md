@@ -1,7 +1,9 @@
 
 # ITM: Initial Target Market
 
-![](public/img/swimmingpool.jpg)
+Learn to swim in the swimming pool first before diving into the ocean.
+
+![Learn to swim in the swimming pool first before jumping into the ocean](public/img/swimmingpool.jpg)
 
 Getting a product off the ground and getting traction is hard. It's like trying to swim for the very first time. You don't want to learn in the ocean, you want to learn in a shallow swimming pool and with inflatables and only then, go have fun in the ocean.
 
