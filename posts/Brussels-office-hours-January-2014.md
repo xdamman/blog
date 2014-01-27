@@ -12,8 +12,8 @@ It’s very energizing to see all those men and women who are passionate about w
 Here is a summary of a few of those meetings so that you can have an overview of what it’s like to do an office hour with me. 
 
 - [Hstry.org: replay history on social media](hstry-social-media-history)
-- [Trickle.to: accept donations for your github repo](github-sponsor-donation)
-- [Teepiic: shared photo album](teepiic-shared-photo-album)
-- [Approval process for Buffer](buffer-approval-process)
+- Trickle.to: accept donations for your github repo [coming soon]
+- Teepiic: shared photo album [coming soon]
+- Approval process for Buffer [coming soon]
 
 
