@@ -32,12 +32,8 @@
     </div>
 
     <div id="footer">
-      {{#if posts}}
-        {{>_footer_home}}
-      {{/if}}
-      {{^posts}}
-        {{>_footer}}
-      {{/posts}}
+      {{>_footer_page}}
+      {{>_footer_post}}
     </div>
 
     {{#if env.development}}

@@ -1,8 +1,10 @@
-draft: true
+draft: false
 tags: #officehours
 
-# Hstry.org: replay history on social media  (Thomas Ketchell)
-Thomas is not a hacker. He is a half French/half English historian. He is using social media to “replay History”. What if historic persons were on Twitter or Instagram today? What would they tweet, share? I really like the idea. Such a fun and modern way to teach history. 
+# Hstry.org: replay history on social media
+![Replay history on social media](public/img/social-media-history-timeline.png)
+
+[Thomas Ketchell](https://twitter.com/tomketch) is not a hacker. He is a half French/half English historian. He is using social media to “replay History”. What if historic persons were on Twitter or Instagram today? What would they tweet, share? I really like the idea. Such a fun and modern way to teach history. 
 
 Their current business model is to license an app to pilot classrooms that have iPads. The app provides a Storify like timeline of those social media bits and include various tests for students. 
 

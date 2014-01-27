@@ -1,4 +1,4 @@
-@media (min-height: 600px) and (min-width: 1100px) {
+@media (min-height: 550px) and (min-width: 1000px) {
   body.page {
     background: url('../img/xavierdamman-homepage.jpg') no-repeat;
     background-size: contain;
@@ -10,6 +10,10 @@
 
   body.home {
     overflow: hidden;
+  }
+
+  body.home .lead {
+    margin-top: 50px;
   }
 
   body.home .posts {
@@ -38,8 +42,24 @@
     background: none;
   }
 
-  body.page .lead {
-    margin-top: 50px;
+  p, li {
+    font-size: 18px;
+  }
+
+  p.lead {
+    font-size: 20px;
+  }
+
+  .about {
+    margin:30px 30px;
+  }
+
+  h1, h2, h3, h4, p {
+    padding: 0 30px;
+  }
+  
+  .post .byline {
+    padding: 0 30px;
   }
 
 }

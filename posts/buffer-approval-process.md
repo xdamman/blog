@@ -1,8 +1,10 @@
 draft: true
 tags: #officehours
 
-# Approval process for Buffer (Peter Meyes)
-Peter has a long experience in marketing. He experienced the pain of doing twenty back and forth between the client and the agency to know what to share on social media (many if not most of social media accounts of brands are managed by marketing agencies). He wants to fix that. 
+# Approval process for Buffer
+[Peter Meyers](https://twitter.com/blackboxshots) has a long experience in marketing. He experienced the pain of doing twenty back and forth between the client and the agency to know what to share on social media (many if not most of social media accounts of brands are managed by marketing agencies). He wants to fix that with his partner [Florent Grandjean](https://twitter.com/mrflo‎).
+
+![Approval process for Buffer](public/img/approval-buffer.png)
 
 The danger here is to fall in the trap of tailoring the application to a given business. Every business has its own version of what the approval process should look like and you could quickly end up doing a complex enterprise software that will require a sales force and sales cycles that will take months.
 

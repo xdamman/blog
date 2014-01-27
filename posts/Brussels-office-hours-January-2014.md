@@ -1,4 +1,5 @@
-draft: true
+draft: false
+tags: #officehours
 
 # Office hours Brussels January 2014
 
@@ -11,7 +12,7 @@ It’s very energizing to see all those men and women who are passionate about w
 Here is a summary of a few of those meetings so that you can have an overview of what it’s like to do an office hour with me. 
 
 - [Hstry.org: replay history on social media](hstry-social-media-history)
-- [Tickle.to: accept donations for your github repo](github-sponsor-donation)
+- [Trickle.to: accept donations for your github repo](github-sponsor-donation)
 - [Teepiic: shared photo album](teepiic-shared-photo-album)
 - [Approval process for Buffer](buffer-approval-process)
 

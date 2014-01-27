@@ -14,6 +14,6 @@ The website is terrible. It looks like a Ruby on Rails site from 10 years ago. S
 
 When you design your homepage, you have only one goal: convince the first time visitor to try your service. Period. So first explain the **immediate benefit**. Why should I waste my time on this site? Show me what it does and what do you need from me. Tell me what the input and output are and show me some real world examples if applicable. Once I'm convinced that I should spend a bit of my time to give it a try, take me by the hand and walk me through the **shortest way** to the end product. Don't let me customize or edit anything that are not absolutely required. Those options are for returning users, not first time users. First time users want to get as quickly as possible to the end result. 
 
-If you are in Paris and interested in the space, [contact Severine](https://twitter.com/intent/tweet?status=%40teepiic%20). She could use some UX designers and hackers.
+If you are in Paris and interested in the space, [contact Severine](https://twitter.com/intent/tweet?status=%40teepiic%20). 
 
-Here is a product that I could see working for that particular problem: [a Pastebin for photos](pastebin-for-photos). 
+Here is my spin on a product that I could see working for that particular problem: [a Pastebin for photos](pastebin-for-photos). 

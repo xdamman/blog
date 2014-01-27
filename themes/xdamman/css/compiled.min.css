@@ -503,6 +503,10 @@ body.home h4:first-child {
   margin-top: 0px;
 }
 
+body.home .link_to_home {
+  display: none;
+}
+
 
 
 .post-item .timeago {
@@ -537,6 +541,18 @@ body.page .post-item p {
   background-color: #f5f5f5;
 }
 
+#footer > div {
+  display: none;
+}
+
+.page #footer .footer_page {
+  display: block;
+}
+
+.post #footer .footer_post {
+  display: block;
+}
+
 /* Custom page CSS
 -------------------------------------------------- */
 
@@ -544,7 +560,7 @@ body.page .post-item p {
 
 .container {
   width: auto;
-  max-width: 660px;
+  max-width: 640px;
   padding: 0;
 }
 
@@ -658,7 +674,7 @@ table th {
   padding-left: 2px;
 }
 
-@media (min-height: 600px) and (min-width: 1100px) {
+@media (min-height: 550px) and (min-width: 1000px) {
   body.page {
     background: url('../img/xavierdamman-homepage.jpg') no-repeat;
     background-size: contain;
@@ -670,6 +686,10 @@ table th {
 
   body.home {
     overflow: hidden;
+  }
+
+  body.home .lead {
+    margin-top: 50px;
   }
 
   body.home .posts {
@@ -698,8 +718,29 @@ table th {
     background: none;
   }
 
-  body.page .lead {
-    margin-top: 50px;
+  p,
+  li {
+    font-size: 18px;
+  }
+
+  p.lead {
+    font-size: 20px;
+  }
+
+  .about {
+    margin: 30px 30px;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  p {
+    padding: 0 30px;
+  }
+
+  .post .byline {
+    padding: 0 30px;
   }
 }
 
@@ -729,7 +770,8 @@ table th {
   color: #dc322f;
 }
 
-.str {
+.str,
+.atv {
   color: #D14;
 }
 

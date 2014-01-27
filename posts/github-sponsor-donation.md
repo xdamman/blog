@@ -4,7 +4,7 @@ draft: true
 
 ![](public/img/github-repo-sponsored-by.png)
 
-I'm a big fan of Github. It's a fantastic platform to work together on code. And I believe that it can grow much bigger than it is today if they can reach outside of the hacker community (which is their (ITM)[/initial-target-market]) (that's a topic for another blog post.)
+I'm a big fan of Github. It's a fantastic platform to work together on code. And I believe that it can grow much bigger than it is today if they can reach outside of the hacker community (which is their [ITM](initial-target-market)) (that's a topic for another blog post.)
 
 Like any big new network, there are opportunities to piggy back on them and provide services that complete the experience (in the same way that YouTUBE and PhotoBucket piggy backed on MySpace, Imgur on Reddit, Twitpic on Twitter, etc.). 
 There are already a few that exist like [Travis CI](https://travis-ci.org/), [Circle CI](https://circleci.com), [CodeClimate](https://codeclimate.com), ...
