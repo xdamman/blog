@@ -1,9 +1,8 @@
+draft: true
 tags: #officehours
 
-# Teepiic: create photo albums together 
-
-This is the third blog post in my [office hours series](Brussels-office-hours-January-2014).
-This one is about Severine Bourlet. She wants to solve the problem of gathering in one place photos of an event.
+# Teepiic: create together photo albums (Severine Bourlet)
+Severine wants to solve the problem of gathering photos for a given event in one place.
 
 Organizing photos is a real mess and when you have multiple photographers it's almost impossible. 20,000 startups or so around the world are trying to solve that problem. Someone will nail it someday but no one has yet. 
 
