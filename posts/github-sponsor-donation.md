@@ -11,7 +11,7 @@ There are already a few that exist like [Travis CI](https://travis-ci.org/), [Ci
 
 One that is needed is to provide an easy way to make money with your github repository. Open Source is not free and as your repo becomes more and more popular, you need to make some money so that you can dedicate more time to maintain it. Everybody who relies on your code will appreciate it.
 
-Many projects have tried to tackle that problem (e.g. [BitHub](https://whispersystems.org/blog/bithub/), [Tip4Commit](http://tip4commit.com/)). I met recently a Belgian hacker Jeroen who is also trying to attack this problem with [Trickle.to](http://trickle.to).
+Many projects have tried to tackle that problem (e.g. [BitHub](https://whispersystems.org/blog/bithub/), [Tip4Commit](http://tip4commit.com/)). I met recently a Belgian hacker [Jeroen](http://twitter.com/jeroentbt) who is also trying to attack this problem with [Trickle.to](http://trickle.to).
 
 Here is my take on it: Make it a badge like Travis CI.
 Make it easy for me as the owner of a repo to manage a banner with the logos of the companies that support the project. Also, handle the payment for me. 
