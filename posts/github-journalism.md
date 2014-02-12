@@ -1,5 +1,3 @@
-
-
 draft: true
 
 # Github for journalism

@@ -1,3 +1,5 @@
+draft: true
+
 # The war for your home screen
 
 Internet companies are fighting for our attention. And today our attention is on the home screen of our phone. 
