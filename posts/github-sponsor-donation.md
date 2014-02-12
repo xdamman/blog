@@ -2,6 +2,9 @@ date: February 11 2014
 
 # Donations/sponsoring for your github repo
 
+This is the fourth blog post in my [office hours series](Brussels-office-hours-January-2014).
+This one is about [Jeroen Tiebout](http://twitter.com/jeroentbt). He wants to help open source projects get donations.
+
 ![](public/img/github-repo-sponsored-by.png)
 
 I'm a big fan of Github. It's a fantastic platform to work together on code. And I believe that it can grow much bigger than it is today if they can reach outside of the hacker community (which is their [ITM](initial-target-market)) (that's a topic for another blog post.)

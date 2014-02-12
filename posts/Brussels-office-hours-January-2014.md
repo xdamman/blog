@@ -14,6 +14,6 @@ Here is a summary of a few of those meetings so that you can have an overview of
 - [Hstry.org: replay history on social media](hstry-social-media-history)
 - [Approval process for Buffer](buffer-approval-process)
 - [Teepiic: shared photo album](teepiic-shared-photo-album)
-- Trickle.to: accept donations for your github repo [coming soon]
+- [Trickle.to: accept donations for your github repo](github-sponsor-donation) 
 
 
