@@ -1,4 +1,4 @@
-draft: true
+date: February 11 2014
 
 # Donations/sponsoring for your github repo
 
