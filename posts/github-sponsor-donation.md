@@ -32,6 +32,6 @@ Some percentage needs to percolate to the dependencies and the various contribut
 
 I really think that this is a great business if done right. 
 
-Jeroen is working on this and is looking for a cofounder. [Ping him](mailto:jeroen@trickle.to?subject=Interested%20in%20Trickle.to).
+Jeroen is working on this and is looking for a cofounder. [Ping him](https://twitter.com/intent/tweet?status=%40jeroentbt%20).
 
 Hack away!
