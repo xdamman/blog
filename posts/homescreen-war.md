@@ -1,6 +1,10 @@
+date: February 15 2014
+
 # The war for your home screen
 
 Internet companies are fighting for our attention. And today our attention is on the home screen of our phone. 
+
+![](public/img/homescreen-war.jpg)
 
 Our home screen is a very limited real estate where we put our favorite apps. There aren't so many apps worth of that space. Most of you have an icon for your calendar, contacts/messages, emails, camera/photos, music, maps, notes and a combination of social interactions apps such as Twitter, Facebook, Instagram, Foursquare or SnapChat.
 
