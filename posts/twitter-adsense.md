@@ -4,7 +4,7 @@ date: February 22 2014
 
 Following a Twitter account is the equivalent of “I want to get future updates from this source”. It’s a valuable call to action that could be on many pages across the web. Twitter is uniquely positioned to own this new Follow layer, if they want it.
 
-[](public/img/twitter-adsense.png)
+![](public/img/twitter-adsense.png)
 
 I see Twitter to be at its core a real time distribution system of containers with a 140 characters header. Their principal job is to build the follower/following graph and efficiently distribute those containers through this network. Their monetization should be about helping advertisers build up their following and help them get their containers in the timelines of the right people to maximize engagement.
 
