@@ -1,4 +1,4 @@
-# We are all artists seeking resonance 
+# We are all artists 
 
 To be great, learn to open your senses to new things, new signals, new inspiration. And learn to mix all those to create new vibrations that will resonate in turn with the world. 
 
