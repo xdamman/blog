@@ -1,6 +1,4 @@
-draft: true
-
-# creation = curation + inspiration
+# We are all artists seeking resonance 
 
 To be great, learn to open your senses to new things, new signals, new inspiration. And learn to mix all those to create new vibrations that will resonate in turn with the world. 
 
