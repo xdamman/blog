@@ -1,3 +1,5 @@
+date: 29 Dec 2013
+
 # I don't need a faster iPhone
 
 What made me switch from PC to Mac was not speed but productivity. I don't need a faster iPhone. I need an iPhone that gets the job done when I need it.
