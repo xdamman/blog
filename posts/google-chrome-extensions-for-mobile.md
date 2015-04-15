@@ -1,3 +1,5 @@
+date: 17 Jan 2014
+
 # Extensions for Google Chrome for Mobile
 
 I love Google Chrome. Such a fast and pleasant experience when browsing the web on my laptop. But on my iPhone, Safari is still my browser of choice. But that's about to change.
