@@ -1,12 +1,9 @@
 url: https://medium.com/@xdamman/global-agenda-council-social-media-a8e8d2b4473
 date: Tue Oct 14 2014 04:39:10 GMT-0300 (BRT)
 
-
 #Global Agenda Council Social Media
 
 ##1st Council Call – 14 October 2014
-
-
 
 All 21 members of the World Economic Forum Global Agenda Council on Social Media (#wefsocmed) have been asked to answer the following questions for the first introductory call. Here is what I’ve prepared. It’s short because it has to be under 2mn.
 
