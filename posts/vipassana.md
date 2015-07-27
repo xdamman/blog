@@ -116,7 +116,7 @@ So this was for me my first crash course “mastering your mind 101” to get up
 
 Vipassana means “[Insight into the True Nature of Reality](http://en.wikipedia.org/wiki/Vipassan%C4%81)”.
 
-![The Dhamma Hall where all the group meditation were taking place. Photo [Dhamma Manda on Facebook](http://facebook.com/DhammaManda)](https://medium2.global.ssl.fastly.net/max/2000/1*1BuIZG_MwwHPORicZUJ7rg.jpeg)*The Dhamma Hall where all the group meditation were taking place. Photo [Dhamma Manda on Facebook](http://facebook.com/DhammaManda)*
+![The Dhamma Hall where all the group meditation were taking place. Photo Dhamma Manda on Facebook)](https://medium2.global.ssl.fastly.net/max/2000/1*1BuIZG_MwwHPORicZUJ7rg.jpeg)*The Dhamma Hall where all the group meditation were taking place. Photo [Dhamma Manda on Facebook](http://facebook.com/DhammaManda)*
 
 On Day 4, you are asked for the first time to sit for an hour without moving your legs or your arms. That hurts. A lot. They call it the “Sittings of Strong Determination”. The goal is to develop your equanimity, your capacity to observe pleasant and unpleasant sensations throughout your body in a balanced way without reacting to them.
 
