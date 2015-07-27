@@ -1,16 +1,21 @@
 url: https://medium.com/@xdamman/bye-bye-publishers-mobile-website-34e470446399
 date: Mon Jun 15 2015 12:33:50 GMT-0300 (BRT)
 
+
 #Bye bye publishers’ mobile website
 
 ##Like it or not, your website won’t be the primary place where people read your content anymore (at least on mobile).
+
+# Bye bye publishers’ mobile website
+
+## Like it or not, your website won’t be the primary place where people read your content anymore (at least on mobile).
 
 I can’t remember the last time I actually opened the mobile website of a publisher. I discover links mostly through Twitter and Facebook and I send them to [Pocket](http://getpocket.com), my offline reader. It’s such a better experience: consistent navigation, no ad, no bloated pages that take forever to load on a mobile connection (*seriously [you really need 100+ requests and 2.6MB of data](http://xdamman.com/website-optimization-grunt-uncss) — which takes 35s to load on a 3G connection — to send me some text and one stock photo?*).
 
 I’m not the only one. This is a trend that will accelerate for a few reasons:
 
 First, there is the [exponential growth of ad blockers](http://www.mondaynote.com/2015/05/25/ad-blocks-doomsday-scenarios/). 300M people have downloaded one of them. The recent announcement of Apple at their developer conference that they will allow extensions to block ads on mobile will accelerate this adoption even more.
-> #300M people have downloaded an ad blocker on their desktop. They will soon be available to hundreds of millions of iOS devices.
+> # 300M people have downloaded an ad blocker on their desktop. They will soon be available to hundreds of millions of iOS devices.
 
 Second, there is mobile. Most publishers already have the majority of their traffic coming from mobile devices that have a limited bandwidth. Whereas on desktops people would be very forgiving about heavy web pages bloated with requests to 3rd party services (ad servers, widgets, etc.), on mobile it’s a different story. Loading a web page from the original publisher’s website takes between 5 to 30s on mobile. That’s forever. Whereas a text shot on Twitter or a Native Article on Facebook loads instantly.
 

@@ -1,17 +1,18 @@
 url: https://medium.com/@xdamman/10-000-startups-100-000-jobs-fa749671e145
 date: Thu Feb 19 2015 16:09:55 GMT-0200 (BRST)
 
+
 #10,000 startups, 100,000 jobs
 
 ##My personal recommendations for #BEStartupManifesto
 
 ![](https://medium2.global.ssl.fastly.net/max/2736/1*WBt9y3UMoE9MyQmaBryOeQ.jpeg)
 
-#10,000 startups
+# 10,000 startups
 
-#100,000 jobs
+# 100,000 jobs
 
-###BeStartupManifesto
+## #BeStartupManifesto
 *Image source: [http://thefreerangelife.com/9-gardening-supplies-for-free/](http://thefreerangelife.com/9-gardening-supplies-for-free/)*
 
 During my short stay in Belgium the week of February 9th, on top of meeting a bunch of entrepreneurs, I’ve also met with [Laurent Hublet](https://be.linkedin.com/pub/laurent-hublet/10/ba7/70a) to talk about the Digital Agenda for Belgium and a bunch of people from the European Commission to talk about the same topic but for Europe (at the initiative of [Ann Mettler](https://be.linkedin.com/in/annmettler), head of the European Political Strategy Centre, the Commission’s in-house think tank).
@@ -22,15 +23,15 @@ Our role is primarily to be just a catalyst, to spawn conversations and synthesi
 
 That’s how we came up together with the initial core team ([Robin](https://twitter.com/robinwauters), [Ramon](https://twitter.com/ramonsuarez), [Toon](https://twitter.com/toon), [Bart](https://twitter.com/bartbecks)) with the idea of a [call for stories with the #BEStartupManifesto hashtag](https://medium.com/@StartupsBe/belgian-startup-manifesto-bde96d5bb7bb).
 
-##So what would be my personal recommendations?
+## So what would be my personal recommendations?
 
 It may seem idealistic (it is), but I thought it would be an interesting exercise to throw something out there as a “what if anything was possible?”. *To be clear, this is just my personal take. Everyone is free (and encouraged) to also share their own personal recommendations.*
 
 Ready? Go!
 <center>
-#**Belgian Startup Manifesto**</center>
+# **Belgian Startup Manifesto**</center>
 <center>
-##**v0.1-xdamman branch**</center>
+## **v0.1-xdamman branch**</center>
 
 
 
@@ -54,7 +55,7 @@ What are the needs of an early stage startup?
 <center>
 concretely…</center>
 
-###Agile
+### Agile
 
 A founding team should be able to quickly create a startup online in an hour or less (that’s how much time it took me to incorporate Storify inc. on incorporation.com). When the startup fails, it should be easy to tear it down.
 
@@ -62,11 +63,11 @@ A founding team should be able to quickly hire or fire people at will. People wh
 
 *In other words, failing to find the right founding team or the right first employees should not be punished. It’s only by trying that you can learn and make better decisions in the future.*
 
-###Lean
+### Lean
 
 It shouldn’t cost anything to quit your job and start your company, that means that people should be getting free social security and unemployment benefits for up to (e.g.) 2-3 years (we give that to people at the CPAS, why not to people who want to create an economic activity before they start turning any profit?).
 
-###Focused
+### Focused
 
 The most important thing for a founding team is to be hyper focused on finding their product market fit. Anything else is a distraction.
 
@@ -78,42 +79,42 @@ I never took any subsidy for Storify even though I’ve been offered some. It’
 
 The taxation regime also needs to be hugely simplified, because it’s a huge distraction. Before startups make money, there shouldn’t be much taxes to collect anyway so the loss for the government is very limited, but the gain for the entrepreneur in terms of reducing distraction is huge. Once there is profit then sure there should be taxes. I’m all for profit sharing because it means that I’m also making profit. Everybody wins.
 
-###World wide
+### World wide
 
 What makes startups more likely to be successful is that they are not limited by old artificial limits. There is no reason to restrain them to live in a certain place or to force them to hire people coming from a certain region. At Storify we hired people from different countries. At some point we were 7 people speaking a total of 7 different languages. That means among other things that startups should be able to sponsor a visa for qualified people.
 
-###One more ask
+### One more ask
 
 A direct flight Brussels — San Francisco.
 OK that one is very personal, but joke aside, I’m convinced that reducing friction to travel between the center of Europe and the center of Innovation can only foster more transfer of knowledge, experience and even investments. Everyone will win here.
 
-##Then the seed becomes a tree…
+## Then the seed becomes a tree…
 
 Once the startup grows up, starts making profit and hires more and more people, it can’t stay in its small pot. We need to move it to a more stable ground where it will continue to grow its roots. That’s when the startup will have to transition to an existing legal status for companies with all its laws and protections for employees that make it more rigid but also more stable. Everyone wins.
 
-##**What we are giving back**
+## **What we are giving back**
 
 We can’t possibly think about asking something to the collectivity without thinking about what we will be giving back. We are asking for permission to experiment new things, a new legal status, a new type of company. But what would be the benefit for all of us as a society?
 
-###**100k jobs**
+### **100k jobs**
 
 By reducing the friction and the barrier of entry to create your startup, we could expect more startups to be created. The goal would be to create 10,000 new startups in the next 5 years, creating 100,000 jobs.
 
-###**More tax revenue**
+### **More tax revenue**
 
 Capital gain should be taxed the exact same way as regular income.
 
 Come on guys, let’s stop the bullshit of the 1% that says that their way of making money is different than the way of making money for the 99%. It’s not. Generating revenue with your sweat or with your capital shouldn’t be different. Therefore, the profit should be taxed the exact same way. Don’t worry, being in that scenario is a very good problem to have. And even after income-level taxes on the capital gain (instead of currently zero!), you will still be richer than all of your friends. Relax.
 
-###**More transparency/accountability**
+### **More transparency/accountability**
 
 This one is very idealistic and might not be really feasible in the short term. But ideally, the financial arm of the government should have direct access to the bank accounts of the startup. That will remove the need for the founding team to file tax reports. The government will know how much profit there is and they could just take their cut. That will also greatly reduce abuse. Remember, this would only be for early stage startups. Once they graduate to become real companies, this won’t apply.
 
-##Important note about abuse
+## Important note about abuse
 
 I understand that this may seem very risky and that this could open the door to abuse. We need to be ok with the fact that whatever we will come up with won’t be perfect. It won’t cover all the needs, and it won’t please everybody from the get go. It would be foolish to think that we could find the right solution at the first try. That’s why it’s important to put ourselves in a situation where failure doesn’t cost much and where we could iterate quickly. To do so, I would recommend to be very ambitious but limit the scope to a certain type of startup and limit also the number of startups who could claim that status. I’m a big believer in the mantra “Make it work for one before trying to make it work for all”. So that if we fail (and we will make mistakes and that’s ok), not much damage will be done and we could quickly get back on our feet. After all, that’s also how you learned how to ski isn’t it?
 
-##**Final thought**
+## **Final thought**
 
 If you paid attention, even though it’s about the Belgian Startup Manifesto, there is nothing in this proposal that would limit the creation of such entity to Belgian people living in Belgium. In fact, Spanish people living in Berlin could potentially as well create such entity, in the same way that I’ve created my startup (Storify) in the Delaware state (using incorporation.com), but the HQ was in San Francisco and I’m Belgian).
 
