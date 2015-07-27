@@ -2,9 +2,9 @@ url: https://medium.com/@xdamman/10-000-startups-100-000-jobs-fa749671e145
 date: Thu Feb 19 2015 16:09:55 GMT-0200 (BRST)
 
 
-#10,000 startups, 100,000 jobs
+# 10,000 startups, 100,000 jobs
 
-##My personal recommendations for #BEStartupManifesto
+## My personal recommendations for #BEStartupManifesto
 
 ![](https://medium2.global.ssl.fastly.net/max/2736/1*WBt9y3UMoE9MyQmaBryOeQ.jpeg)
 

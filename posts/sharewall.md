@@ -2,9 +2,9 @@ url: https://medium.com/@xdamman/from-paywall-to-sharewall-126e78981465
 date: Wed Feb 12 2014 18:04:52 GMT-0200 (BRST)
 
 
-#From Paywall to Sharewall
+# From Paywall to Sharewall
 
-##Give brands a reason to pay for early access to your content so that they can be the first to sponsor and share it.
+## Give brands a reason to pay for early access to your content so that they can be the first to sponsor and share it.
 
 I love [this idea](http://www.subtraction.com/2014/02/12/an-idea-for-the-times-pay-wall) by [@khoi](https://twitter.com/khoi) to give credit to paywall subscribers for sharing New York Times stories.
 

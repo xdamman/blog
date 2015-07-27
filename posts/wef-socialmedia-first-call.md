@@ -2,10 +2,6 @@ url: https://medium.com/@xdamman/global-agenda-council-social-media-a8e8d2b4473
 date: Tue Oct 14 2014 04:39:10 GMT-0300 (BRT)
 
 
-#Global Agenda Council Social Media
-
-##1st Council Call – 14 October 2014
-
 # Global Agenda Council Social Media
 
 ## 1st Council Call – 14 October 2014

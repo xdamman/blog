@@ -2,10 +2,6 @@ url: https://medium.com/@xdamman/bye-bye-publishers-mobile-website-34e470446399
 date: Mon Jun 15 2015 12:33:50 GMT-0300 (BRT)
 
 
-#Bye bye publishers’ mobile website
-
-##Like it or not, your website won’t be the primary place where people read your content anymore (at least on mobile).
-
 # Bye bye publishers’ mobile website
 
 ## Like it or not, your website won’t be the primary place where people read your content anymore (at least on mobile).
