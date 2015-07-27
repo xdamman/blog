@@ -29,7 +29,7 @@ I’ve been running all around for the past 7 years, moving from Belgium to San 
 
 As I’m now “in between startups”, I wanted to make sure that whatever I will end up doing next will be something meaningful, which will contribute in a positive way to humanity. Something that will move the needle, something that will be worth devoting so much time of my life.
 
-![The Dhamma Manda Vipassana Meditation Center in North California (near Kelseyville) (Photo [Dhamma Manda on Facebook](http://facebook.com/DhammaManda))](https://medium2.global.ssl.fastly.net/max/2000/1*peNGm67ELigNQtSx4WUoaQ.jpeg)*The Dhamma Manda Vipassana Meditation Center in North California (near Kelseyville) (Photo [Dhamma Manda on Facebook](http://facebook.com/DhammaManda))*
+![The Dhamma Manda Vipassana Meditation Center in North California (near Kelseyville) (Photo Dhamma Manda on Facebook)](https://medium2.global.ssl.fastly.net/max/2000/1*peNGm67ELigNQtSx4WUoaQ.jpeg)*The Dhamma Manda Vipassana Meditation Center in North California (near Kelseyville) (Photo [Dhamma Manda on Facebook](http://facebook.com/DhammaManda))*
 
 The Vipassana 10-day Meditation Retreat is like a bootcamp. We were about 50 people, more or less equally split between genders but we were segregated at all times. The rule of noble silence applies throughout the course. No talk, except to ask questions at 9pm to the teacher on an individual basis. No book, no notes, no mobile phone, no Internet, nothing. The goal is to disconnect completely from the outside world and focus on your meditation and on yourself.
 <center>
