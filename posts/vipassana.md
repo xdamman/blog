@@ -71,7 +71,7 @@ The first meditations are all about being aware of your breath (Anapana means �
 
 At first, it’s quite difficult to get your mind to shut up. You can’t help but thinking about memories or things that you would like to do in the future. You need to learn to tame your mind and bring it back whenever you can to your breath. Easier said than done. It takes practice and dedication.
 
-![SN. Goenka’s DVD was playing every evening for an hour to teach us the Vipassana meditation technique. Image source: [solidgoldcreativity.com](http://solidgoldcreativity.com/)](https://medium2.global.ssl.fastly.net/max/2560/1*xBFzftpIXSsBpcspwhPsbA.jpeg)*SN. Goenka’s DVD was playing every evening for an hour to teach us the Vipassana meditation technique. Image source: [solidgoldcreativity.com](http://solidgoldcreativity.com/)*
+![SN. Goenka’s DVD was playing every evening for an hour to teach us the Vipassana meditation technique. Image source: http://solidgoldcreativity.com](https://medium2.global.ssl.fastly.net/max/2560/1*xBFzftpIXSsBpcspwhPsbA.jpeg)*SN. Goenka’s DVD was playing every evening for an hour to teach us the Vipassana meditation technique. Image source: [solidgoldcreativity.com](http://solidgoldcreativity.com/)*
 
 Every evening at 7pm, there was a 1h15 discourse given by [SN. Goenka](http://en.wikipedia.org/wiki/S._N._Goenka). That was by far the highlight of the day. This guy is so inspiring. What he was saying was music to my ears.
 
