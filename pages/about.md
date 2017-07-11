@@ -2,7 +2,7 @@
 Who am I? Why this website? What will you find here?
 
 ### Who am I?
-Hi, I'm Xavier Damman. I'm an entrepreneur and an engineer in computer science. I was born and raised in Belgium, but I now live in San Francisco since 2009. I was the cofounder and CEO of [Storify](http://storify.com) that has been [acquired by Livefyre in September 2013](http://storify.com/storify/storify-acquired-by-livefyre). 
+Hi, I'm Xavier Damman. I'm an entrepreneur and an engineer in computer science. I was born and raised in Belgium, but I now live in NYC since 2016 (after 7 years in San Francisco). I was the cofounder and CEO of [Storify](http://storify.com) that has been [acquired by Livefyre in September 2013](http://storify.com/storify/storify-acquired-by-livefyre). I've started a new company: [Open Collective](https://opencollective.com) to [create a new form of association for the Internet generation](https://medium.com/@xdamman/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.2wlahmdtz).
 
 ### Why this site?
 It's long overdue that I get back to blogging. It's not that I don't know what to talk about. I have plenty of things, concepts, ideas that I'd love to share. It's just that it's hard for me to put them down in texts.
