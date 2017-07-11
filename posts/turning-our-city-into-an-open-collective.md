@@ -4,20 +4,16 @@ date: Thu Feb 16 2017 18:18:22 GMT+0100 (CET)
 
 # Turning Our City into an Open Collective
 
-## As nation states are increasingly disconnected from reality, how can we enable citizens to reclaim their cities? In Brussels, we are…
+As nation states are increasingly disconnected from reality, how can we enable citizens to reclaim their cities? In Brussels, we are turning our city into a platform on top of which citizens can create collectives, raise money transparently and contribute to make the capital of Europe a better city to live and work.
 
-## Turning Our City into an Open Collective
-
-### As nation states are increasingly disconnected from reality, how can we enable citizens to reclaim their cities? In Brussels, we are turning our city into a platform on top of which citizens can create collectives, raise money transparently and contribute to make the capital of Europe a better city to live and work.
-
-<iframe src="https://medium.com/media/df1d8623fc808446a97a72f801002e08" frameborder=0></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sbJLPQxqDeg" frameborder="0" allowfullscreen></iframe></center>
 
 I have a love/hate relationship with my city, Brussels.
 
 **Hate: Nothing changes.** 
 We’re stuck in the 20th century, with the worst traffic, and a justice palace that has been under renovation for 30 years. Our schools haven’t changed in a century.
 
-![](https://cdn-images-1.medium.com/max/2000/1*HKh_PfgnoSjixjt4sAIeOQ.jpeg)**
+![](https://cdn-images-1.medium.com/max/2000/1*HKh_PfgnoSjixjt4sAIeOQ.jpeg)
 
 **Love: the people. **
 Our 163 different nationalities in the capital of Europe are well traveled, speak many languages, and don’t take themselves too seriously. They stay connected with fast trains to London, Amsterdam and Paris. There is so much diversity, and so much potential.
@@ -81,7 +77,7 @@ If every event uses their own account on Meetup or EventBrite, there’s no way 
 
 That’s why we developed [a new tool for events](https://medium.com/open-collective/whats-new-on-open-collective-fb550c2167bf#.8len6i91d) on Open Collective. From now on, every time a collective organizes an event in Brussels, everyone can benefit from building the common database of like-minded participants. The funds from tickets go straight to their collective, which everyone can transparently see.
 
-![](https://cdn-images-1.medium.com/max/3200/1*5pPJsYZ45E2lEyAwGOQNAw.png)**
+![](https://cdn-images-1.medium.com/max/3200/1*5pPJsYZ45E2lEyAwGOQNAw.png)
 
 ## Join us!
 

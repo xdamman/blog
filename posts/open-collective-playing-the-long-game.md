@@ -4,13 +4,9 @@ date: Tue Jan 26 2016 20:25:15 GMT+0100 (CET)
 
 # Playing the long game
 
-## Our goal with OpenCollective is to build a global infrastructure on top of which anyone can start an association anywhere in the world as…
+Our goal with OpenCollective is to build a global infrastructure on top of which anyone can start an association anywhere in the world as easily as creating a Facebook group. To achieve that, we are building a network of host organizations that will act as an abstraction layer between the complexity of the pre-digital world, and the new bottom up economy of the 21st century. One single interface to start your association, collect and disburse money transparently (read more: A New Form of Association for the Internet Generation).
 
-## Playing the long game
-
-Our goal with [OpenCollective](https://opencollective.com) is to build a global infrastructure on top of which anyone can start an association anywhere in the world as easily as creating a Facebook group. To achieve that, we are building a network of host organizations that will act as an abstraction layer between the complexity of the pre-digital world, and the new bottom up economy of the 21st century. One single interface to start your association, collect and disburse money transparently (read more: [A New Form of Association for the Internet Generation](https://medium.com/open-collective/a-new-form-of-association-for-the-internet-generation-part-2-fe6d8415f444#.8c049o2w4)).
-
-![](https://cdn-images-1.medium.com/max/2000/1*LhAW3qIZZ4vBLDYAlUjuoA.png)**
+![](https://cdn-images-1.medium.com/max/2000/1*LhAW3qIZZ4vBLDYAlUjuoA.png)
 
 This won’t happen overnight. It will take time. To reflect that, we, the founders, are committing to a 10 year vesting, instead of the usual 4 years.
 

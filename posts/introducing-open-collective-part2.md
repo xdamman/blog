@@ -4,11 +4,7 @@ date: Wed Dec 30 2015 18:47:23 GMT+0100 (CET)
 
 # A New Form of Association for the Internet Generation — part 2
 
-## How can we do things together that require money without having to worry about the complexity of creating and maintaining legal entities?
-
-## A New Form of Association for the Internet Generation — part 2
-
-### How can we do things together that require money without having to worry about the complexity of creating and maintaining legal entities?
+How can we do things together that require money without having to worry about the complexity of creating and maintaining legal entities?
 
 [In part 1](https://medium.com/@xdamman/a-new-form-of-association-for-the-internet-generation-part-1-6d6c4f5dd27f#.d0v7efqge), I covered a few situations where we need to collect money to do things together. In each of those cases, the last thing we want to do is to deal with the complexity of creating and maintaining a legal entity. It’s too much overhead, too early.
 

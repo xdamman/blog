@@ -4,11 +4,7 @@ date: Sun May 07 2017 14:43:52 GMT+0200 (CEST)
 
 # The blind spot of Silicon Valley
 
-## I lived in San Francisco for 7 years then moved last year to NYC. I was back there for a week pitching investors. The distance helps me…
-
-## The blind spot of Silicon Valley
-
-### I lived in San Francisco for 7 years then moved last year to NYC. I was back there for a week pitching investors. The distance helps me better understand the blind spot that Silicon Valley has developed and that may very well cost them to miss the next big wave.
+I lived in San Francisco for 7 years then moved last year to NYC. I was back there for a week pitching investors. The distance helps me better understand the blind spot that Silicon Valley has developed and that may very well cost them to miss the next big wave.
 
 ### You are what you eat
 

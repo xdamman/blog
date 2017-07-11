@@ -92,9 +92,17 @@ body.page .post-item p {
 }
 
 
-.post img {
+.post > img {
   max-width: 100%;
-  margin: 20px 0px; 
+  margin: 20px auto;
+  text-align: center;
+}
+
+.post > img + em {
+  margin-bottom: 20px;
+  margin-top: -10px;
+  display: block;
+  text-align: center;  
 }
 
 video {

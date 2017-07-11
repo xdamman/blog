@@ -4,10 +4,6 @@ date: Sat Feb 11 2017 15:47:00 GMT+0100 (CET)
 
 # Unbundling the United States
 
-## The problem with Trump is not that he is president. The problem with Trump is that he is the president of all of us in the United States.
-
-## Unbundling the United States
-
 The problem with Trump is not that he is president. The problem with Trump is that he is the president of all of us in the United States.
 
 It’s easy to forget that reality is relative. My reality in NYC is very different than the reality of people living in a small town in the Midwest. Whereas a big city needs to attract the best talents from all around the world, a small town needs to protect the fragile equilibrium of their local community. Is there anything wrong with that? It’s just a different reality and different needs.

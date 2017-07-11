@@ -4,11 +4,7 @@ date: Wed Jun 29 2016 22:02:45 GMT+0200 (CEST)
 
 # Money and Open Source Communities
 
-## Ever since we announced our new service to enable open source communities to collect money from backers and sponsors, the same question…
-
-## Money and Open Source Communities
-
-Ever since we announced our [new service to enable open source communities to collect money from backers and sponsors](https://medium.com/open-collective/a-new-way-to-fund-open-source-projects-91a51b1b7aac#.r8ii2oqyl), the same question came up again and again: why would an open source project need money?
+Ever since we announced our new service to enable open source communities to collect money from backers and sponsors, the same question came up again and again: why would an open source project need money?
 
 It’s a fair question to ask. After all, so many open source projects have been thriving without money. Not to mention that adding money into a volunteer based community can have a negative effect.
 
@@ -42,7 +38,7 @@ At the end of the year, send post cards, stickers or t-shirts to all your contri
 
 This is what [CocoaPods](https://cocoapods.org) did last year. They created [physical coins “Core Contributor”](http://blog.cocoapods.org/Coins).
 
-![](https://cdn-images-1.medium.com/max/2560/1*YZMRpEG4XqcGFNaPOmYreA.jpeg)**
+![](https://cdn-images-1.medium.com/max/2560/1*YZMRpEG4XqcGFNaPOmYreA.jpeg)
 > “I love it because it becomes a physical representation of an abstract bit of community work. Eventually you forget about a few PRs, but having something there on your desk so you and others can talk about it is really gratifying. I found out that a few people had them framed this year.” — [orta](undefined).
 
 ### Operating expenses

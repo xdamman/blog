@@ -4,10 +4,6 @@ date: Sun Jan 24 2016 21:24:12 GMT+0100 (CET)
 
 # Pia Mancini and Aseem Sood join OpenCollective as cofounders
 
-## I’m super excited to announce that Pia and Aseem are both joining the OpenCollective adventure. They are both remarkable people with very…
-
-## Pia Mancini and Aseem Sood join OpenCollective as cofounders
-
 I’m super excited to announce that Pia and Aseem are both joining the OpenCollective adventure. They are both remarkable people with very complementary skills. I’m thrilled and I’m grateful to have the opportunity to work together to empower people to collect money to do great things together.
 
 Pia is the cofounder of [DemocracyEarth](http://democracy.earth) (YC2015) and of the Net Party in Buenos Aires. Like me, she is passionate about redefining our institutions for the Internet era. She did [a brilliant TED talk](http://ted.com/talks/pia_mancini_how_to_upgrade_democra…) about it that I invite you to watch if you haven’t already.

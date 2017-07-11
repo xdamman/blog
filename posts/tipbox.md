@@ -4,7 +4,7 @@ date: Tue Jul 21 2015 22:03:58 GMT+0200 (CEST)
 
 # Introducing Tipbox
 
-## An easy way to get anonymous testimonials for your next story.
+An easy way to get anonymous testimonials for your next story.
 
 We believe in journalism. Not in the copy pasting journalism that we often see today, but in the true original journalism. The one that is digging up stories to help us understand what’s happening in the world beyond what officials say, the one that is giving a voice to the voiceless so that they can be heard in our democracies.
 
@@ -21,7 +21,7 @@ That’s why we wanted to provide a very easy tool that wouldn’t require any p
 
 You can create a Tipbox on [https://tipbox.is](https://tipbox.is). You just need to provide your email address and a subject line. If you have a PGP key associated to your email address and published on a public key server, we will give you the option to use it. That way, the tip will be encrypted end-to-end, from the browser of the source to your inbox (if not, we will still use PGP encryption but only from the browser of the source till our server, then the email will be sent in clear to your inbox).
 
-![](https://cdn-images-1.medium.com/max/3502/1*RyGNhKzQmc4JUmAxg_9OBQ.jpeg)**
+![](https://cdn-images-1.medium.com/max/3502/1*RyGNhKzQmc4JUmAxg_9OBQ.jpeg)
 
 Once the Tipbox is created, you will receive an email with a unique URL. You can share that URL wherever you see fit: Publicly on Twitter, on your website, at the end of a story that you published, in a call for testimonials, in a forum or in a Facebook or LinkedIn group, etc.
 

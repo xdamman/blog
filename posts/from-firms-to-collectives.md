@@ -4,11 +4,7 @@ date: Mon Jan 30 2017 11:23:03 GMT+0100 (CET)
 
 # From Firms to Collectives
 
-## Moving beyond the old model of private firms to create economic value together.
-
-## From Firms to Collectives
-
-### Moving beyond the old model of private firms to create economic value together.
+Moving beyond the old model of private firms to create economic value together.
 
 Until now, private firms have been the primary way to bring people together to create economic value. Firms gather people in a physical space and enable them to closely collaborate. They are tightly managed by executives, a board and ultimately investors. By design, the profits of those private firms are unevenly distributed to the people who own and control them, accentuating a major issue in our society: inequality.
 > # By design, the profits of those private firms are unevenly distributed to the people who own and control them, accentuating a major issue in our society: inequality.

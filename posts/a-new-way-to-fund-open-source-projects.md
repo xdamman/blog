@@ -4,11 +4,7 @@ date: Sun Feb 21 2016 21:02:41 GMT+0100 (CET)
 
 # A New Way to Fund Open Source Projects
 
-## Goodwill only takes you so far. Here is a new way to fund open source projects that aligns the interests of companies with open source…
-
-## A New Way to Fund Open Source Projects
-
-### Goodwill only takes you so far. Here is a new way to fund open source projects that aligns the interests of companies with open source communities.
+Goodwill only takes you so far. Here is a new way to fund open source projects that aligns the interests of companies with open source communities.
 
 There have been more and more talks recently about the [lack of funding for open source projects](https://medium.com/@nayafia/how-i-stumbled-upon-the-internet-s-biggest-blind-spot-b9aa23618c58#.3b54k46ze). [Nadia Eghbal](undefined) even started [a list of Open Source Projects who need support](http://fundingoss.com). Yet, there is no good solution today to fund them.
 

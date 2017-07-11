@@ -4,11 +4,7 @@ date: Thu Sep 10 2015 19:52:09 GMT+0200 (CEST)
 
 # A New Form of Association for the Internet Generation — part 1
 
-## So far, the Internet has been very good at helping people do things together. But once it involves money, there is no good solution…
-
-## A New Form of Association for the Internet Generation — part 1
-
-### So far, the Internet has been very good at helping people do things together. But once it involves money, there is no good solution. Creating a new legal entity is too much overhead, too early. What if we could create a virtual entity that can collect money as easily as creating a Facebook Group?
+So far, the Internet has been very good at helping people do things together. But once it involves money, there is no good solution. Creating a new legal entity is too much overhead, too early. What if we could create a virtual entity that can collect money as easily as creating a Facebook Group?
 
 ### No legal entity, no bank account, no budget
 
